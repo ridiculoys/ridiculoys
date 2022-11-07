@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm 🌟 Loys 🌟</h1>
 <h3 align="center">BS Computer Science student from the University of the Philippines Los Baños</h3>
 
-<h6 align="center">I am a 21 year old developer from the Philippines 🇵🇭. I am currently in Singapore 🇸🇬 where I recently had a research internship with Google called the Google exploreCS Research 2022, in partnership with Singapore Management University. My research areas were Artificial Intelligence & Data Science. </h6>
+<h6 align="center">I am a 21 year old developer from the Philippines 🇵🇭. I am currently in Singapore 🇸🇬 where I recently concluded a research internship called the Google exploreCS Research 2022 at Singapore Management University. My research areas were Artificial Intelligence & Data Science. </h6>
 
 <p align="left"> <a href="https://twitter.com/ridiculoys" target="blank"><img src="https://img.shields.io/twitter/follow/ridiculoys?logo=twitter&style=for-the-badge" alt="ridiculoys" /></a> </p>
 
