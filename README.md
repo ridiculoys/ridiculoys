@@ -1,13 +1,21 @@
 <h1 align="center">Hey, I'm 🌟 Loys 🌟</h1>
 <h3 align="center">BS Computer Science student from the University of the Philippines Los Baños</h3>
 
-<h6 align="center">I am a 21 year old developer from the Philippines 🇵🇭. I am currently in Singapore 🇸🇬 where I recently concluded a research internship called the Google exploreCS Research 2022 at Singapore Management University. My research areas were Artificial Intelligence & Data Science. </h6>
+<h6 align="center">I am a 22 year old developer from the Philippines 🇵🇭 with five years of experience in creating applications, programs, games, and websites using various programming languages. I am a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions. Right now, I am eager to learn and dive into the world of LLMs. </h6>
 
-<p align="left"> <a href="https://twitter.com/ridiculoys" target="blank"><img src="https://img.shields.io/twitter/follow/ridiculoys?logo=twitter&style=for-the-badge" alt="ridiculoys" /></a> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/ridiculoys/" target="blank"><img src="https://img.shields.io/badge/connect%20with%20me-grey?style=for-the-badge&logo=linkedin" alt="ridiculoys" /></a>
+<a href="https://twitter.com/ridiculoys" target="blank"><img src="https://img.shields.io/badge/read%20my%20random%20thoughts-grey?style=for-the-badge&logo=twitter" alt="ridiculoys" /></a>
+<a href="https://www.instagram.com/ridiculoys/" target="blank"><img src="https://img.shields.io/badge/get%20updates%20about%20me-grey?style=for-the-badge&logo=instagram" alt="ridiculoys" /></a>
+</p>
 
-- 🔭 I’m currently working with [Dashlabs.ai](https://dashlabs.ai/) to provide the world’s first DIY lab software.
+- 👩‍💻 I’m currently working with [Offshorly](https://offshorly.com/) to build products that use the latest technologies in the industry.
+ 
+- 🏥 I have also worked with [Dashlabs.ai](https://dashlabs.ai/), a YC startup, to provide the world’s first DIY lab software.
+  
+- 🔭 I also went to Singapore last August to November 2023 to work with [Singapore Management University](https://scis.smu.edu.sg/people/staff/research-staffvisitor). I was under a research internship called the Google exploreCS Research 2022. My research areas were Artificial Intelligence & Data Science.
 
-- 🌱 I’m currently interested in **machine learning, web development, and cybersecurity.**
+- 🌱 I’m currently interested in **artificial intelligence, web development, and cybersecurity.**
 
 - 📫 You can reach me at **lltalip@up.edu.ph**
 
