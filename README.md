@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm 🌟 Loys 🌟</h1>
 <h3 align="center">BS Computer Science student from the University of the Philippines Los Baños</h3>
 
-<h6 align="center">I am a 22 year old developer from the Philippines 🇵🇭 with five years of experience in creating applications, programs, games, and websites using various programming languages. I am a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions. Right now, I am eager to learn and dive into the world of LLMs. </h6>
+<h6 align="center">I am a 23 year old developer from the Philippines 🇵🇭 with five years of experience in creating applications, programs, games, and websites using various programming languages. I am a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions. Right now, I am eager to learn and dive into the world of LLMs. </h6>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ridiculoys/" target="blank"><img src="https://img.shields.io/badge/connect%20with%20me-grey?style=for-the-badge&logo=linkedin" alt="ridiculoys" /></a>
