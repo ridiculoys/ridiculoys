@@ -18,7 +18,7 @@ Fun facts about me:
 
 - 📝 You can find me doing research on the side (Singapore Management University and University of the Philippines Los Baños). I just got accepted to the Computing Conference 2025 in London!
 
-- 👩‍💻 I have worked with [Offshorly](https://offshorly.com/) as an Full Stack AI Engineer to build products and technical solutions that use the latest technologies in the industry. I have worked with startups such as Pathfinder as well!
+- 👩‍💻 I have worked with [Offshorly](https://offshorly.com/) as a Full Stack AI Engineer to build products and technical solutions that use the latest technologies in the industry. I have worked with startups such as Pathfinder as well!
  
 - 🏥 I have also worked with [Dashlabs.ai](https://dashlabs.ai/), a YC startup, to provide the world’s first DIY lab software.
   
