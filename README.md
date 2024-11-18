@@ -16,7 +16,7 @@ Fun facts about me:
  
 - 🎓 I was a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions.
 
-- 📝 You can find me doing research on the side (Singapore Management University and University of the Philippines Los Baños). (I just got accepted to the Computing Conference 2025 in London!)
+- 📝 You can find me doing research on the side (Singapore Management University and University of the Philippines Los Baños). I just got accepted to the Computing Conference 2025 in London!
 
 - 👩‍💻 I have worked with [Offshorly](https://offshorly.com/) as an Full Stack AI Engineer to build products and technical solutions that use the latest technologies in the industry. I have worked with startups such as Pathfinder as well!
  
