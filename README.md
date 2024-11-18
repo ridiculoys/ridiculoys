@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm 🌟 Loys 🌟</h1>
-<h3 align="center">BS Computer Science student from the University of the Philippines Los Baños</h3>
+<h3 align="center">Cloud Technical Resident ☁ at Google</h3>
+<h5 align="center">BS Computer Science student from the University of the Philippines Los Baños</h5>
 
-<h6 align="center">I am a 23 year old developer from the Philippines 🇵🇭 with five years of experience in creating applications, programs, games, and websites using various programming languages. I am a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions. Right now, I am eager to learn and dive into the world of LLMs. </h6>
+<h6 align="center">I am a software developer turned Cloud Technical Resident from the Philippines 🇵🇭. I'm the first and only CTR from the country! I help analyze client needs and validate the suitability of their technical solutions ⚒⚙.  Right now, I am eager to learn and dive into the world of Google Cloud with a specialization in Data Engineering, Artifical Intelligence, and Networking and Security.
+</h6>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ridiculoys/" target="blank"><img src="https://img.shields.io/badge/connect%20with%20me-grey?style=for-the-badge&logo=linkedin" alt="ridiculoys" /></a>
@@ -9,15 +11,20 @@
 <a href="https://www.instagram.com/ridiculoys/" target="blank"><img src="https://img.shields.io/badge/get%20updates%20about%20me-grey?style=for-the-badge&logo=instagram" alt="ridiculoys" /></a>
 </p>
 
-- 👩‍💻 I’m currently working with [Offshorly](https://offshorly.com/) to build products that use the latest technologies in the industry.
+Fun facts about me:
+- 💻 I have six years of experience in creating applications, programs, games, and websites using various programming languages. (Python, C, C#, Java, R, JavaScript/TyppScript, and many more
+ 
+- 🎓 I was a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions.
+
+- 📝 You can find me doing research on the side (Singapore Management University and University of the Philippines Los Baños). (I just got accepted to the Computing Conference 2025 in London!)
+
+- 👩‍💻 I have worked with [Offshorly](https://offshorly.com/) as an Full Stack AI Engineer to build products and technical solutions that use the latest technologies in the industry. I have worked with startups such as Pathfinder as well!
  
 - 🏥 I have also worked with [Dashlabs.ai](https://dashlabs.ai/), a YC startup, to provide the world’s first DIY lab software.
   
 - 🔭 I also went to Singapore last August to November 2022 to work with [Singapore Management University](https://scis.smu.edu.sg/people/staff/research-staffvisitor). I was under a research internship called the Google exploreCS Research 2022. My research areas were Artificial Intelligence & Data Science.
 
-- 🌱 I’m currently interested in **artificial intelligence, cloud technology, web development, and cybersecurity.**
-
-- 📫 You can reach me at **lltalip@up.edu.ph**
+- 📫 You can reach me at **louisetalip@gmail.com** or **loystalip@google.com** for business-related stuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
