@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm 🌟 Loys 🌟</h1>
-<h3 align="center">Cloud Technical Resident ☁ at Google</h3>
-<h5 align="center">BS Computer Science student from the University of the Philippines Los Baños</h5>
+<h3 align="center">Customer Solutions Consultant ☁ at Google</h3>
+<h5 align="center">BS Computer Science graduate from the University of the Philippines Los Baños</h5>
 
-<h6 align="center">I am a software developer turned Cloud Technical Resident from the Philippines 🇵🇭. I'm the first and only CTR from the country! I help analyze client needs and validate the suitability of their technical solutions ⚒⚙.  Right now, I am eager to learn and dive into the world of Google Cloud with a specialization in Data Engineering, Artifical Intelligence, and Networking and Security.
+<h6 align="center">I am a full-stack software developer turned Cloud Engineer from the Philippines 🇵🇭. I was the first and only Cloud Technical Resident from the country! I help analyze client needs and validate the suitability of their technical solutions ⚒⚙.  Right now, I am eager to learn and dive into the world of Google Cloud with a specialization in Data Engineering, Data Analytics, and Artifical Intelligence.
 </h6>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 Fun facts about me:
-- 💻 I have six years of experience in creating applications, programs, games, and websites using various programming languages. (Python, C, C#, Java, R, JavaScript/TyppScript, and many more
+- 💻 I have experience in creating applications, programs, games, and websites using various programming languages. (Python, C, C#, Java, R, JavaScript/TypeScript, etc.)
  
 - 🎓 I was a consistent academic awardee in the university and I have also competed and received awards in several local, national, and international competitive programming and debate competitions.
 
