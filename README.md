@@ -24,7 +24,7 @@ Fun facts about me:
   
 - 🔭 I also went to Singapore last August to November 2022 to work with [Singapore Management University](https://scis.smu.edu.sg/people/staff/research-staffvisitor). I was under a research internship called the Google exploreCS Research 2022. My research areas were Artificial Intelligence & Data Science.
 
-- 📫 You can reach me at **louisetalip@gmail.com** or **loystalip@google.com** for business-related stuff
+- 📫 You can reach me at **louisetalip@gmail.com** or **loys@google.com** for business-related stuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
